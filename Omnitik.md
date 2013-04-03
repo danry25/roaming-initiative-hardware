@@ -12,9 +12,13 @@ Omnitiks come with RouterOS v6, which is a custom made firmware based on the Lin
 
 ##Modifications
 
-###Omnitik DIY POE out
+###POE out
 
-With this modification you can add POE out on all 4 ethernet ports that are available for other devices to plug into on your Omnitik. Check out a [completed POE out mod](/Contrib/Tomás Aparicio/) & try it yourself.
+With this modification you can add Power Over Ethernet (POE) out on all 4 ethernet ports that are available for other devices to plug into on your Omnitik. Check out a [completed POE out mod](/Contrib/Tomás Aparicio/) & try it yourself.
+
+###Antenna Alterations
+
+There are many things you can do to the internal antennas in an Omnitik, from connectorizing them to  just making the existing ones a bit more directional using some tin foil and thin plastic sheathing. You can also use a dish to make an Omnitik directional, things like old satellite dishes, woks and even metal strainers or colanders will work to make your Omnitik into something that can go a few miles in a single direction.
 
 ##Relevant Links
 
